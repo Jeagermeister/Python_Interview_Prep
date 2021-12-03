@@ -37,4 +37,3 @@ Q5). Write a program in Python to find largest and smallest number in array.
 Q6). Write a program in Python to find second highest number in an integer array.
 Q7). Write a program in Python to find top two maximum number in array?
 Q8). Write a program in Python to remove duplicate elements form array. (IN-PROGRESS)
- 
